@@ -68,7 +68,7 @@ Git | GitHub | Postman
 
 ## 📫 Contact Me
 
-* 💼 Fiverr: ([](https://www.fiverr.com/s/EgBxj57))
+* 💼 Fiverr: ([https://www.fiverr.com/s/EgBxj57](https://www.fiverr.com/s/EgBxj57))
 * 💼 Upwork: (add your link)
 * 📧 Email: [taufeeqahmad2998@gmail.com](mailto:your@email.com)
 
