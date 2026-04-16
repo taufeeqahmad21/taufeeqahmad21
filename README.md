@@ -14,6 +14,7 @@
 * 🎤 Built real-time apps using MQTT, SignalR & Firebase
 * ☁️ Experience with AWS Amplify & cloud integrations
 * 🎯 Focused on high-performance and production-ready apps
+* 🚀 Hire me on Fiverr: https://www.fiverr.com/s/EgBxj57
 
 ---
 
