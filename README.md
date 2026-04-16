@@ -7,12 +7,12 @@
 
 ---
 
-👨‍💻 About Me
-📱 4+ years of experience in Android development
-🔥 Specialized in Java, Kotlin, and scalable architectures
-🎤 Built real-time apps using MQTT, SignalR & Firebase
-☁️ Experience with AWS Amplify & cloud integrations
-🎯 Focused on high-performance and production-ready apps
+## 👨‍💻 About Me
+* 📱 4+ years of experience in Android development
+* 🔥 Specialized in Java, Kotlin, and scalable architectures
+* 🎤 Built real-time apps using MQTT, SignalR & Firebase
+* ☁️ Experience with AWS Amplify & cloud integrations
+* 🎯 Focused on high-performance and production-ready apps
 
 ---
 
