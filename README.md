@@ -69,7 +69,7 @@ Git | GitHub | Postman
 
 ## 📫 Contact Me
 
-* 💼 Fiverr: ## 🌐 Connect With Me
+## 🌐 Connect With Me
 
 <p align="center">
   <a href="https://www.fiverr.com/s/EgBxj57">
@@ -84,9 +84,6 @@ Git | GitHub | Postman
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
 </p>
-
-* 💼 Upwork: (add your link)
-* 📧 Email: [taufeeqahmad2998@gmail.com](mailto:your@email.com)
 
 ---
 
