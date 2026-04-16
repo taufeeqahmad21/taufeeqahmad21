@@ -67,8 +67,6 @@ Git | GitHub | Postman
 
 ---
 
-## 📫 Contact Me
-
 ## 🌐 Connect With Me
 
 <p align="center">
@@ -87,7 +85,7 @@ Git | GitHub | Postman
 
 ---
 
-💼 Availability
+## 💼 Availability
 
-⭐ Available for freelance Android projects
-⭐ Open to remote opportunities
+* ⭐ Available for freelance Android projects
+* ⭐ Open to remote opportunities
