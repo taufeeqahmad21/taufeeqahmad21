@@ -69,7 +69,22 @@ Git | GitHub | Postman
 
 ## 📫 Contact Me
 
-* 💼 Fiverr: ([https://www.fiverr.com/s/EgBxj57](https://www.fiverr.com/s/EgBxj57))
+* 💼 Fiverr: ## 🌐 Connect With Me
+
+<p align="center">
+  <a href="https://www.fiverr.com/s/EgBxj57">
+    <img src="https://img.shields.io/badge/Fiverr-1DBF73?style=for-the-badge&logo=fiverr&logoColor=white"/>
+  </a>
+
+  <a href="#">
+    <img src="https://img.shields.io/badge/Upwork-6FDA44?style=for-the-badge&logo=upwork&logoColor=white"/>
+  </a>
+
+  <a href="mailto:taufeeqahmad2998@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+</p>
+
 * 💼 Upwork: (add your link)
 * 📧 Email: [taufeeqahmad2998@gmail.com](mailto:your@email.com)
 
