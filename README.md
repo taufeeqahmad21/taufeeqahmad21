@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?text=Android+Developer;Java+%7C+Kotlin+%7C+AWS;Real-Time+App+Specialist&center=true&width=500&height=50" >
+  <img src="https://readme-typing-svg.herokuapp.com?lines=Android+Developer;Java+%7C+Kotlin+%7C+AWS;Real-Time+App+Specialist&center=true&width=500&height=50">
 </p>
 # 👋 Hi, I'm Taufeeq Ahmad
 
