@@ -7,12 +7,12 @@
 
 ---
 
-## 💡 About Me
-
-* 📱 4+ years of experience in Android development
-* 🔥 Expert in Java, Kotlin, Retrofit, Firebase, AWS
-* 🎤 Built Push-To-Talk (PTT) apps using SignalR & MQTT
-* 📍 Focused on scalable and real-time systems
+👨‍💻 About Me
+📱 4+ years of experience in Android development
+🔥 Specialized in Java, Kotlin, and scalable architectures
+🎤 Built real-time apps using MQTT, SignalR & Firebase
+☁️ Experience with AWS Amplify & cloud integrations
+🎯 Focused on high-performance and production-ready apps
 
 ---
 
@@ -73,4 +73,7 @@ Git | GitHub | Postman
 
 ---
 
-⭐ **Available for freelance Android projects**
+💼 Availability
+
+⭐ Available for freelance Android projects
+⭐ Open to remote opportunities
