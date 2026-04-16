@@ -87,7 +87,7 @@ Git | GitHub | Postman
 
 ## 💼 Availability
 
-⭐ **Available for freelance Android projects**
-⭐ **Open to remote opportunities**
+* ⭐ Available for freelance Android projects
+* ⭐ Open to remote opportunities
 
 ---
