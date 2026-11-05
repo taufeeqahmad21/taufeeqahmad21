@@ -1,93 +1,82 @@
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?lines=Android+Developer;Java+%7C+Kotlin+%7C+AWS;Real-Time+App+Specialist&center=true&width=500&height=50">
-</p>
+<a href="https://taufeeqahmad21.github.io">
+  <img src="assets/banner.png" alt="Taufeeq Ahmad · Android Engineer · I build products and ship them" width="100%">
+</a>
 
-## 👋 Hi, I'm Taufeeq Ahmad
-
-🚀 **Android Developer | Java | Kotlin | AWS | Real-Time Systems**
-
----
-
-## 👨‍💻 About Me
-* 📱 4+ years of experience in Android development
-* 🔥 Specialized in Java, Kotlin, and scalable architectures
-* 🎤 Built real-time apps using MQTT, SignalR & Firebase
-* ☁️ Experience with AWS Amplify & cloud integrations
-* 🎯 Focused on high-performance and production-ready apps
-* 🚀 Hire me on Fiverr: https://www.fiverr.com/s/EgBxj57
-
----
-
-## 🛠️ Tech Stack
-
-**Languages:**
-Java | Kotlin
-
-**Android:**
-Jetpack | MVVM | Retrofit | Room | CameraX
-
-**Backend & Cloud:**
-AWS Amplify | Firebase | SignalR | MQTT
-
-**Tools:**
-Git | GitHub | Postman
-
----
-
-## 🚀 Featured Projects
-
-### 🔹 Push-To-Talk (PTT) App
-
-* Real-time voice communication
-* MQTT & SignalR integration
-* Background service implementation
-
----
-
-### 🔹 Taxi Booking App
-
-* Live driver tracking (Google Maps)
-* Payment integration
-* Real-time updates
-
----
-
-### 🔹 Face Liveness Detection
-
-* AWS Face Liveness integration
-* Secure identity verification
-
----
-
-## 📊 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=taufeeqahmad21\&show_icons=true)
-
-![GitHub Streak](https://streak-stats.demolab.com?user=taufeeqahmad21)
-
----
-
-## 🌐 Connect With Me
+<br><br>
 
 <p align="center">
-  <a href="https://www.fiverr.com/s/EgBxj57">
-    <img src="https://img.shields.io/badge/Fiverr-1DBF73?style=for-the-badge&logo=fiverr&logoColor=white"/>
-  </a>
-
-  <a href="#">
-    <img src="https://img.shields.io/badge/Upwork-6FDA44?style=for-the-badge&logo=upwork&logoColor=white"/>
-  </a>
-
-  <a href="mailto:taufeeqahmad2998@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
+  <a href="https://www.linkedin.com/in/taufeeqahmaddev"><img src="assets/btn-linkedin.png" height="36" alt="LinkedIn"></a>&nbsp;
+  <a href="https://taufeeqahmad21.github.io"><img src="assets/btn-portfolio.png" height="36" alt="Portfolio"></a>&nbsp;
+  <a href="mailto:taufeeqahmad2998@gmail.com"><img src="assets/btn-email.png" height="36" alt="Email"></a>&nbsp;
+  <a href="https://www.fiverr.com/s/EgBxj57"><img src="assets/btn-fiverr.png" height="36" alt="Fiverr"></a>
 </p>
 
----
+<br>
 
-## 💼 Availability
+### Hi, I'm Taufeeq
 
-* ⭐ Available for freelance Android projects
-* ⭐ Open to remote opportunities
+Android engineer with **5+ years** shipping production apps in Kotlin and Java. Most of my work is real-time: live driver tracking, in-trip updates and driver–passenger messaging for ride-hailing platforms. I also design and ship my own products, on Android and on the web.
 
----
+```kotlin
+object Taufeeq {
+    val role     = "Android Engineer · Product Builder"
+    val location = "Lahore, Pakistan · working remote"
+    val focus    = listOf("Real-time apps", "Performance & stability", "Clean Architecture")
+    val now      = listOf("Android @ My Taxi Ride", "Growing Kalyvor", "Building InvoiceFlow")
+    val askMe    = "MQTT, live location, ANRs, Jetpack Compose"
+}
+```
+
+<br>
+
+### Selected work
+
+<table>
+  <tr>
+    <td width="50%"><a href="https://play.google.com/store/apps/details?id=com.watoolbox.app"><img src="assets/wa-toolbox.png" alt="WA Toolbox: Android messaging utility app, live on Google Play"></a></td>
+    <td width="50%"><a href="https://kalyvor.com"><img src="assets/kalyvor.png" alt="Kalyvor: tools-first productivity platform with 156 online tools"></a></td>
+  </tr>
+  <tr>
+    <td width="50%"><img src="assets/invoiceflow.png" alt="InvoiceFlow: invoicing app for freelancers, in development"></td>
+    <td width="50%"><a href="https://taufeeqahmad21.github.io"><img src="assets/portfolio.png" alt="Portfolio website built with Next.js"></a></td>
+  </tr>
+</table>
+
+<br>
+
+### Experience
+
+**Android Developer · My Taxi Ride Inc** &nbsp;`2021 – present` &nbsp;`remote`
+- Built live driver tracking and trip-status updates with Google Maps SDK, Firebase and MQTT
+- Reduced crash and ANR rates by restructuring background processing and main-thread work
+- Integrated REST APIs and push messaging for booking, dispatch and in-trip communication
+
+**Mobile Application Developer · BrindaSoft** &nbsp;`2018 – 2022`
+- Developed Android features for a scalable taxi platform: real-time location, driver–passenger communication and live trip updates
+
+**Also built:** a push-to-talk voice app over MQTT and SignalR with long-running background services, and identity verification with AWS Face Liveness.
+
+<br>
+
+### Toolbox
+
+<p>
+  <img src="https://skillicons.dev/icons?i=kotlin,java,androidstudio,firebase,aws,nextjs,react,ts,tailwind,nodejs,git,github,postman&theme=dark&perline=13" alt="Kotlin, Java, Android Studio, Firebase, AWS, Next.js, React, TypeScript, Tailwind CSS, Node.js, Git, GitHub, Postman">
+</p>
+
+**Android:** Jetpack Compose · Coroutines & Flow · MVVM · Clean Architecture · Retrofit · Room · CameraX · Google Maps SDK<br>
+**Real-time & cloud:** MQTT · SignalR · Firebase · AWS Amplify · REST APIs
+
+<br>
+
+### How I work
+
+**Performance first.** Main thread stays free, so the app stays responsive on budget phones, not only flagships.<br>
+**Built to change.** Clear layers and boundaries so features stay testable as the codebase grows.<br>
+**Ship, then listen.** The smallest useful version goes out, and real users decide what comes next.
+
+<br>
+
+<p align="center">
+  <sub>Open to Android and software engineering roles, remote or on-site · <a href="mailto:taufeeqahmad2998@gmail.com">taufeeqahmad2998@gmail.com</a></sub>
+</p>
