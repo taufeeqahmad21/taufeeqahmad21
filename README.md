@@ -22,7 +22,7 @@ object Taufeeq {
     val role     = "Android Engineer · Product Builder"
     val location = "Lahore, Pakistan · working remote"
     val focus    = listOf("Real-time apps", "Performance & stability", "Clean Architecture")
-    val now      = listOf("Android @ My Taxi Ride", "Growing Kalyvor", "Building InvoiceFlow")
+    val now      = listOf("Senior Android @ My Taxi Ride", "Growing Kalyvor", "Building InvoiceFlow")
     val askMe    = "MQTT, live location, ANRs, Jetpack Compose"
 }
 ```
@@ -46,10 +46,11 @@ object Taufeeq {
 
 ### Experience
 
-**Android Developer · My Taxi Ride Inc** &nbsp;`2021 – present` &nbsp;`remote`
+**Senior Android Developer · [My Taxi Ride (MTR)](https://mtr.care/)** &nbsp;`Feb 2021 – present` &nbsp;`remote`
 - Built live driver tracking and trip-status updates with Google Maps SDK, Firebase and MQTT
 - Reduced crash and ANR rates by restructuring background processing and main-thread work
 - Integrated REST APIs and push messaging for booking, dispatch and in-trip communication
+- Develop and maintain multiple Android apps in MTR's transportation and dispatch ecosystem: [MTR apps on Google Play](https://play.google.com/store/apps/dev?id=8463082059817782937)
 
 **Mobile Application Developer · BrindaSoft** &nbsp;`2018 – 2022`
 - Developed Android features for a scalable taxi platform: real-time location, driver–passenger communication and live trip updates
