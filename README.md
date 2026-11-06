@@ -1,11 +1,11 @@
 <a href="https://taufeeqahmad21.github.io">
-  <img src="assets/banner.png" alt="Taufeeq Ahmad · Android Engineer · I build products and ship them" width="100%">
+  <img src="assets/banner.png" alt="Taufeeq Ahmad · Senior Android Engineer · 8+ years of production Android · I build products and ship them" width="100%">
 </a>
 
 <br><br>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/taufeeqahmaddev"><img src="assets/btn-linkedin.png" height="36" alt="LinkedIn"></a>&nbsp;
+  <a href="https://www.linkedin.com/in/taufeeqahmad21"><img src="assets/btn-linkedin.png" height="36" alt="LinkedIn"></a>&nbsp;
   <a href="https://taufeeqahmad21.github.io"><img src="assets/btn-portfolio.png" height="36" alt="Portfolio"></a>&nbsp;
   <a href="mailto:taufeeqahmad2998@gmail.com"><img src="assets/btn-email.png" height="36" alt="Email"></a>&nbsp;
   <a href="https://www.fiverr.com/s/EgBxj57"><img src="assets/btn-fiverr.png" height="36" alt="Fiverr"></a>
@@ -15,14 +15,14 @@
 
 ### Hi, I'm Taufeeq
 
-Android engineer with **5+ years** shipping production apps in Kotlin and Java. Most of my work is real-time: live driver tracking, in-trip updates and driver–passenger messaging for ride-hailing platforms. I also design and ship my own products, on Android and on the web.
+Senior Android engineer with **8+ years** shipping production apps in Kotlin and Java. Most of my work is real-time: live driver tracking, in-trip updates and driver–passenger messaging for ride-hailing platforms. I also design and ship my own products, on Android and on the web.
 
 ```kotlin
 object Taufeeq {
-    val role     = "Android Engineer · Product Builder"
+    val role     = "Senior Android Engineer · Product Builder"
     val location = "Lahore, Pakistan · working remote"
     val focus    = listOf("Real-time apps", "Performance & stability", "Clean Architecture")
-    val now      = listOf("Senior Android @ My Taxi Ride", "Growing Kalyvor", "Building InvoiceFlow")
+    val now      = listOf("Senior Android @ My Taxi Ride", "Co-founding Kalyvor", "Building InvoiceFlow")
     val askMe    = "MQTT, live location, ANRs, Jetpack Compose"
 }
 ```
@@ -52,7 +52,7 @@ object Taufeeq {
 - Integrated REST APIs and push messaging for booking, dispatch and in-trip communication
 - Develop and maintain multiple Android apps in MTR's transportation and dispatch ecosystem: [MTR apps on Google Play](https://play.google.com/store/apps/dev?id=8463082059817782937)
 
-**Mobile Application Developer · BrindaSoft** &nbsp;`2018 – 2022`
+**Mobile Application Developer · BrindaSoft** &nbsp;`Mar 2018 – Oct 2022`
 - Developed Android features for a scalable taxi platform: real-time location, driver–passenger communication and live trip updates
 
 **Also built:** a push-to-talk voice app over MQTT and SignalR with long-running background services, and identity verification with AWS Face Liveness.
@@ -79,5 +79,5 @@ object Taufeeq {
 <br>
 
 <p align="center">
-  <sub>Open to Android and software engineering roles, remote or on-site · <a href="mailto:taufeeqahmad2998@gmail.com">taufeeqahmad2998@gmail.com</a></sub>
+  <sub>Open to senior Android and software engineering roles, remote or on-site · <a href="mailto:taufeeqahmad2998@gmail.com">taufeeqahmad2998@gmail.com</a></sub>
 </p>
